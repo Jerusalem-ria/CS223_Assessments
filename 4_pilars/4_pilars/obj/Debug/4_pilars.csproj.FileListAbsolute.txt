@@ -1,0 +1,8 @@
+C:\Users\pomes\OneDrive\Desktop\upload\4_pilars\4_pilars\obj\Debug\4_pilars.csproj.AssemblyReference.cache
+C:\Users\pomes\OneDrive\Desktop\upload\4_pilars\4_pilars\obj\Debug\4_pilars.csproj.SuggestedBindingRedirects.cache
+C:\Users\pomes\OneDrive\Desktop\upload\4_pilars\4_pilars\obj\Debug\4_pilars.csproj.CoreCompileInputs.cache
+C:\Users\pomes\OneDrive\Desktop\upload\4_pilars\4_pilars\bin\Debug\4_pilars.exe.config
+C:\Users\pomes\OneDrive\Desktop\upload\4_pilars\4_pilars\bin\Debug\4_pilars.exe
+C:\Users\pomes\OneDrive\Desktop\upload\4_pilars\4_pilars\bin\Debug\4_pilars.pdb
+C:\Users\pomes\OneDrive\Desktop\upload\4_pilars\4_pilars\obj\Debug\4_pilars.exe
+C:\Users\pomes\OneDrive\Desktop\upload\4_pilars\4_pilars\obj\Debug\4_pilars.pdb
